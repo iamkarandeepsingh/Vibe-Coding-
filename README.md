@@ -1,5 +1,4 @@
-# Vibe-Coding-
-# ✈️ Vibe Coding — AI-Powered Flight Search System
+# Vibe Coding
 
 > **Built entirely with natural language. Zero manual coding.**
 
